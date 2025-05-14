@@ -1,0 +1,3 @@
+Acesta este un proiect demonstrativ în Python. Scopul său este să arate interacțiunea simplă cu utilizatorul și generarea de fișiere de ieșire.
+
+În cadrul acestui proiect, utilizatorul este salutat printr-un mesaj personalizat, iar numele său este salvat într-un fișier de tip text.
