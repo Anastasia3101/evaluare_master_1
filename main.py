@@ -1,6 +1,6 @@
 def greet_user(name):
     print(f"Salut, {name}!")
-    print(f"Bun venit pe ramura feature-b!")
+    print(f"Bun venit pe ramura feature-a și feature-b!")
 
 def main():
     user_name = input("Introdu numele tău: ")
