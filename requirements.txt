@@ -1,0 +1,2 @@
+# Nu sunt necesare dependențe externe pentru acest proiect simplu
+# Dacă sunt necesare librării externe, adaugă-le aici
