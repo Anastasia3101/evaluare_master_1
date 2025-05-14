@@ -1,6 +1,5 @@
 def greet_user(name):
-    print(f"Salut, {name}!")
-    print(f"Bun venit pe ramura feature-a și feature-b!")
+   print(f"Salut, {name}! Bun venit pe ramura feature-a și feature-b!")
 
 def add_numbers(a, b):
     return a + b
